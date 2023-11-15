@@ -6,7 +6,8 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 
 ## Problem Statement and Dataset
 
-## Neural Network Model### EXP NO: 04
+## Neural Network Model
+### EXP NO: 04
 
 # <p align = "center"> Deep Neural Network for Malaria Infected Cell Recognition </p>
 ## AIM
