@@ -46,8 +46,8 @@ Fit the model and predict the sample input.
 ## PROGRAM
 
 ```python
-# Developed By:Swetha.K.P
-# Register Number:212220230053
+# Developed By: Lathika Sunder
+# Register Number:212221230054
 ```
 ```python
 import os
